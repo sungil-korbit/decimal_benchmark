@@ -9,10 +9,19 @@ import java.util.concurrent.TimeUnit;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-@BenchmarkMode(Mode.SingleShotTime)
+@State(Scope.Benchmark)
+@BenchmarkMode(Mode.AverageTime)
 @OutputTimeUnit(TimeUnit.NANOSECONDS)
-@Fork(value = 1, jvmArgs = {"-Xms4g", "-Xmx4g"})
+@Warmup(iterations = 10, time = 200, timeUnit = TimeUnit.MILLISECONDS)
+@Measurement(iterations = 100, time = 200, timeUnit = TimeUnit.MILLISECONDS)
+@Fork(1)
 public class Bench {
+
+    @TearDown(Level.Trial)
+    public void tearDown() {
+        System.gc();
+    }
+
     public void decimalOp(DecimalOp op, BigDecimal x, BigDecimal y) {
         switch (op) {
             case ADD: x.add(y); break;

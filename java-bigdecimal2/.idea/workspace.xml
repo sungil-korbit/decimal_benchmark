@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="623fc002-c90c-4206-b378-c41c5683d6c8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/src/main/java/src/Bench.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/src/main/java/src/Bench.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/META-INF/BenchmarkList" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/META-INF/BenchmarkList" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/META-INF/CompilerHints" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/META-INF/CompilerHints" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/Bench$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/Bench$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/Bench.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/Bench.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_add10k_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_add10k_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_addNegativePi_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_addNegativePi_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_addNegativePointFive_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_addNegativePointFive_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_addOneHundred_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_addOneHundred_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_addOne_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_addOne_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_addPi_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_addPi_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_addPointZeroOne_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_addPointZeroOne_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_addSelf_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_addSelf_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_addSimple_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_addSimple_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_addTwo_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_addTwo_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_div10k_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_div10k_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_divNegativePi_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_divNegativePi_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_divNegativePointFive_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_divNegativePointFive_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_divOneHundred_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_divOneHundred_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_divOne_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_divOne_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_divPi_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_divPi_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_divPointZeroOne_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_divPointZeroOne_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_divSelf_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_divSelf_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_divSimple_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_divSimple_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_divTwo_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_divTwo_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_mul10k_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_mul10k_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_mulNegativePi_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_mulNegativePi_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_mulNegativePointFive_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_mulNegativePointFive_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_mulOneHundred_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_mulOneHundred_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_mulOne_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_mulOne_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_mulPi_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_mulPi_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_mulPointZeroOne_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_mulPointZeroOne_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_mulSelf_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_mulSelf_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_mulSimple_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_mulSimple_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_mulTwo_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_mulTwo_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_sub10k_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_sub10k_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_subNegativePi_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_subNegativePi_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_subNegativePointFive_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_subNegativePointFive_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_subOneHundred_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_subOneHundred_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_subOne_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_subOne_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_subPi_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_subPi_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_subPointZeroOne_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_subPointZeroOne_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_subSelf_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_subSelf_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_subSimple_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_subSimple_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_subTwo_jmhTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/classes/src/generated/Bench_subTwo_jmhTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_add10k_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_add10k_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_addNegativePi_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_addNegativePi_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_addNegativePointFive_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_addNegativePointFive_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_addOneHundred_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_addOneHundred_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_addOne_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_addOne_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_addPi_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_addPi_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_addPointZeroOne_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_addPointZeroOne_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_addSelf_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_addSelf_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_addSimple_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_addSimple_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_addTwo_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_addTwo_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_div10k_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_div10k_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_divNegativePi_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_divNegativePi_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_divNegativePointFive_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_divNegativePointFive_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_divOneHundred_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_divOneHundred_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_divOne_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_divOne_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_divPi_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_divPi_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_divPointZeroOne_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_divPointZeroOne_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_divSelf_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_divSelf_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_divSimple_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_divSimple_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_divTwo_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_divTwo_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_jmhType_B2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_jmhType_B2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_mul10k_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_mul10k_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_mulNegativePi_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_mulNegativePi_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_mulNegativePointFive_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_mulNegativePointFive_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_mulOneHundred_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_mulOneHundred_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_mulOne_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_mulOne_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_mulPi_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_mulPi_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_mulPointZeroOne_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_mulPointZeroOne_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_mulSelf_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_mulSelf_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_mulSimple_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_mulSimple_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_mulTwo_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_mulTwo_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_sub10k_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_sub10k_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_subNegativePi_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_subNegativePi_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_subNegativePointFive_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_subNegativePointFive_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_subOneHundred_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_subOneHundred_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_subOne_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_subOne_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_subPi_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_subPi_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_subPointZeroOne_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_subPointZeroOne_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_subSelf_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_subSelf_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_subSimple_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_subSimple_jmhTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_subTwo_jmhTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-bigdecimal/target/generated-sources/annotations/src/generated/Bench_subTwo_jmhTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="KotlinMultiplatform">
+    <allAvailableExecutables />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="oiunp79m" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2Jo4GYFCPRQppcskpEDG0ATMBYc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Main" />
+      <module name="bigdecimal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="623fc002-c90c-4206-b378-c41c5683d6c8" name="Changes" comment="" />
+      <created>1672731006901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672731006901</updated>
+      <workItem from="1672731008102" duration="34000" />
+      <workItem from="1672731124981" duration="6175000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

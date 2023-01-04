@@ -43,3 +43,4 @@ inline,src/Bench.subPointZeroOne
 inline,src/Bench.subSelf
 inline,src/Bench.subSimple
 inline,src/Bench.subTwo
+inline,src/Bench.tearDown
